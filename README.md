@@ -18,14 +18,14 @@ Then it' ready to go.
 
 Go to command and and choose the project directory and install all:
 
-# npm install
-# npm install firebase
-# npm install react-currency-format
-# npm install @stripe/stripe-js @stripe/react-stripe-js
+### npm install
+### npm install firebase
+### npm install react-currency-format
+### npm install @stripe/stripe-js @stripe/react-stripe-js
 
 ## Inside functions folder
 
-# npm install express
-# npm install cors
-# npm install stripe
+### npm install express
+### npm install cors
+### npm install stripe
 
